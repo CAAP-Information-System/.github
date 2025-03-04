@@ -10,7 +10,7 @@ It is crucial to emphasize that this information is intended solely for use with
 
 ## 📜 Privacy Policy
 
-[View Privacy Policy]([project-assets/caap-software-policy.md](https://github.com/CAAP-Information-System/project-assets/blob/main/caap-software-policy.md))
+[View Privacy Policy](https://github.com/CAAP-Information-System/project-assets/blob/5a0ce33852f2716151d660f48ccdc698b3b4dd5c/caap-software-policy.md)
 
 ## 🌐 Visit Our Official Website
 
